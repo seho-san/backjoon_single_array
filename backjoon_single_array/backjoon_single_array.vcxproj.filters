@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="backjoon_single_array.cpp">
+    <ClCompile Include="n10807.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="n10871.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
