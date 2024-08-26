@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="n10807.cpp" />
     <ClCompile Include="n10810.cpp" />
+    <ClCompile Include="n10813.cpp" />
     <ClCompile Include="n10818.cpp" />
     <ClCompile Include="n10871.cpp" />
     <ClCompile Include="n2562.cpp" />
